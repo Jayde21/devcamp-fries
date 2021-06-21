@@ -1,7 +1,7 @@
 .squares-wrapper{
     display:flex;
     justify-content:center;
-    padding-bottom: 4px;
+    padding-bottom: 60px;
 }
 
 .squares-wrapper>.squares{
